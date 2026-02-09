@@ -4,8 +4,8 @@ import json
 from datetime import datetime
 
 
-API_BASE_URL = "http://127.0.0.1:8000"   # localhost for now
-# API_BASE_URL = "https://your-app-name.onrender.com"   # ← later with render
+
+API_BASE_URL = "https://olympicgamesfastapi.onrender.com"   
 
 
 EDA_IMAGES = {
