@@ -1,4 +1,4 @@
-# Olympic Medal Prediction App & API 🏅
+# Olympic Medal Prediction App & API 
 
 **Live App** (Streamlit UI)  
 ➜ https://olympicgamesui.onrender.com   
